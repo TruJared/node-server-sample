@@ -42,10 +42,10 @@ app.get('/about', (req, res) => {
   });
 });
 
-app.get('/projects', (req, res) => {
-  res.render('projects.hbs', {
-    pageTitle: 'This is my projects page',
-    welcomeMessage: 'Here you can find all of my projects',
+app.get('/poojects', (req, res) => {
+  res.render('poojects.hbs', {
+    pageTitle: '💩💩💩',
+    welcomeMessage: '💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩v',
   });
 });
 
